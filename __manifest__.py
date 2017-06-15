@@ -3,7 +3,7 @@
     'name': "convalidaciones",
 
     'summary': """
-        Convalidaciones para un instituto""",
+        Convalidaciones para un instituto marlon falcon""",
 
     'description': """
         Convalidaciones para un centros de estudios
